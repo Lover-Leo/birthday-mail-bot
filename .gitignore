@@ -1,0 +1,15 @@
+config.json
+birthdays.csv
+recipients.csv
+data/
+__pycache__/
+*.pyc
+.env
+.test-tmp/
+cloud/ReadyToPaste.gs
+gmail/
+cloud/MIGRATION_STATUS.md
+cloud/RECIPIENT_CHAT_PROPOSAL.md
+.tools/
+*.sqlite3
+*.log

@@ -1,0 +1,17 @@
+{
+  "birthdays_file": "birthdays.csv",
+  "recipients_file": "recipients.csv",
+  "database_file": "data/deliveries.sqlite3",
+  "remind_days": [0],
+  "leap_day_policy": "feb28",
+  "send_at": "09:00",
+  "smtp": {
+    "host": "smtp.example.com",
+    "port": 465,
+    "security": "ssl",
+    "username": "",
+    "password": "",
+    "from_email": "",
+    "sender_name": "生日提醒小助手"
+  }
+}
